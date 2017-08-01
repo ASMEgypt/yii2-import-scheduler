@@ -1,6 +1,5 @@
 {
   "name": "execut/yii2-import-scheduler",
-  "version": "0.0.1",
   "description": "Scheduler plugin for yii2 import",
   "keywords": ["yii2", "import", "import file schedule"],
   "homepage": "https://github.com/execut/yii2-import-scheduler",
