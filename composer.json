@@ -13,7 +13,8 @@
   ],
   "minimum-stability": "stable",
   "require": {
-    "execut/yii2-import": "*"
+    "execut/yii2-import": "*",
+    "execut/yii2-scheduler": "*"
   },
   "autoload": {
     "psr-4": {
